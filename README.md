@@ -88,7 +88,7 @@ Este projeto está licenciado sob a [MIT License](LICENSE).
 Se tiver dúvidas ou sugestões, entre em contato:
 
 - **Email:** [nivaldo.nilngn@gmail.com](mailto:nivaldo.nilngn@gmail.com)
-- **LinkedIn:** [Seu Perfil](https://www.linkedin.com/in/nivaldo-nilngn/)
+- **LinkedIn:** [Meu Perfil](https://www.linkedin.com/in/nivaldo-nilngn/)
 
 ---
 
